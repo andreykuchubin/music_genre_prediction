@@ -12,3 +12,6 @@
 
 ## Результат работы
 Лучше всего себя показала модель CatBoost, позволив достичь точности предсказания равной 0.5 на тестовой выборке.
+
+## Используемый стек
+Jupyter Notebook Python: pandas, numpy, matplotlib, seaborn, phik, itertools, time, sweetviz, sklearn, catboost.
